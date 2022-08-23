@@ -222,3 +222,4 @@ function init() {
 }
 // Function call to initialize the index.html
 init();
+  
