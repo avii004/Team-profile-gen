@@ -16,7 +16,9 @@ test('creates a new Employee email', () => {
 test('getName() should return Name', () => {
   expect(employee.getName()).toBe('Name');
 })
-
+test('getName() should return Name', () => {
+  expect(employee.getName()).toBe('Name');
+})
 test('getId() should return Id', () => {
   expect(employee.getId()).toBe('Id');
 })
