@@ -24,20 +24,4 @@ This node.js application uses inquirer to gather employee data from the command 
 * This app will be ran by using the following command: `npm start`
 
 
-* The following information will be requested of each employee with validation.
-  * Name
-  * ID
-  * Email
-  
-  * The user will then be asked to choose one of three employee types by providing information.
-  * Manager (Limit: 1)
-  * Engineer (no limit)
-  * Intern (no limit)
-  
 
-* Additionally, each role has unique information.
-  * Manager - Office Number
-  * Engineer - GitHub Username
-  * Intern - School
-
-* After everything has been selected a index.html file will be generated with user input data located in the `dist` folder
