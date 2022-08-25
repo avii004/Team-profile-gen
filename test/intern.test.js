@@ -8,7 +8,9 @@ test('creates a new Intern Name', () => {
 test('creates a new Intern Id', () => {
   expect(intern.id).toBe('Id');
 })
-
+test('creates a new Intern Id', () => {
+  expect(intern.id).toBe('Id');
+})
 test('creates a new Intern Email', () => {
   expect(intern.email).toBe('Email');
 })
